@@ -1,3 +1,6 @@
+#My Neovim Config.
+
+
 ## Key bindings reference
 
 | Key            | Action                         |

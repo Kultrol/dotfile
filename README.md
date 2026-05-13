@@ -1,4 +1,4 @@
-#My Neovim Config.
+# My Neovim Config.
 
 
 ## Key bindings reference
